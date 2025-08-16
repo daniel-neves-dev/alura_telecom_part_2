@@ -1,12 +1,16 @@
-# Predictive Churn Analysis in Telecom
+<div  style="display: flex;">
+    <img alt="Logo da empresa Alura" src="https://www.cuponation.com.br/images/fit-in/256x/images/a/alura_logo.png", style = "width:100px;">
+    <img class="company-logo__img" src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="Logo da empresa - Oracle ONE - Br Geral 8">
+    <h1>Turma 8</h1>
+</div>
 
-![Project Status: Completed](https://img.shields.io/badge/status-completed-brightgreen)
+# 📈 Customer Churn Analysis part 2 - Predictive Churn Analysis in Telecom
 
 ## 📄 Project Description
 
-This project aims to develop a Machine Learning model capable of predicting the likelihood of a telecom company's customer canceling their service (a phenomenon known as *churn*). The proactive identification of customers with a high propensity to churn allows the company to take targeted retention measures, optimizing resources and reducing revenue loss.
+🎯 Main goal: This project aims to develop a Machine Learning model capable of predicting the likelihood of a telecom company's customer canceling their service (a phenomenon known as *churn*). The proactive identification of customers with a high propensity to churn allows the company to take targeted retention measures, optimizing resources and reducing revenue loss.
 
-The `TelecomX_part2_v3.ipynb` notebook documents the entire process, from data cleaning to the final evaluation and selection of a classification model based on a strategic analysis of business metrics.
+The `TelecomX_part2.ipynb` notebook documents the entire process, from data cleaning to the final evaluation and selection of a classification model based on a strategic analysis of business metrics.
 
 ## 🚀 Methodology and Steps Taken
 
